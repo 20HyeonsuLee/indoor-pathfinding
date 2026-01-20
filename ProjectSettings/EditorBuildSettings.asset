@@ -9,5 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    Niantic.Lightship.AR.AuthBuildSettings: {fileID: 11400000, guid: 6096cc68badeb4635ba16b8ef683ef32, type: 2}
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 8e6ac8235322e4ad599ec892f8065bcd, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ce48aba44e6cf4c7bac5947743f06649, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 09d0502253d324ecf8a767e3ef04ee69, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3879d841c49dd4bc28b0c3fe3c57a965, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b8108264fad2542babb95ff317e41a7e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f145a28780ace42569dad089235fe4e9, type: 2}
   m_UseUCBPForAssetBundles: 0
